@@ -2,7 +2,10 @@
 
 This project demonstrate how we can use multiple JavaScript Technologies to write a code to handle authentication part for node js application
 
-**To run the project in development server**
+# To run the project in development server
+
+1. Go to `.env` file and update the db credentials and update the scret key.
+2. Go to project root folder `auth >` and run below commands
 
 ```
 > npm install
